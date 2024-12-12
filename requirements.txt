@@ -2,3 +2,4 @@ streamlit
 speechrecognition
 pyttsx3
 streamlit-option-menu
+pyaudio  
