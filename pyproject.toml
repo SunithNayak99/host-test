@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "speech-voice-app"
+version = "1.0.0"
+description = "A Streamlit app for speech recognition and text-to-speech"
+authors = [{name = "SunithNayak99"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit>=1.28.0",
+    "speechrecognition>=3.10.0",
+    "gtts>=2.3.0",
+    "streamlit-option-menu>=0.3.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/SunithNayak99/host-test"
+Repository = "https://github.com/SunithNayak99/host-test"

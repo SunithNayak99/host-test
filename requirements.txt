@@ -1,5 +1,5 @@
-streamlit
-speechrecognition
-gtts
-streamlit-option-menu
+streamlit>=1.28.0
+speechrecognition>=3.10.0
+gtts>=2.3.0
+streamlit-option-menu>=0.3.0
 
